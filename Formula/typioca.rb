@@ -8,7 +8,7 @@ class Typioca < Formula
     license "MIT"
 
     def install
-        system "make", "build"
+        system "make", "build", "VERSION=#{version}!"
         bin.install "execs/typioca"
     end
 end
