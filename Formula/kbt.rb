@@ -1,9 +1,9 @@
 class Typioca < Formula
     desc "Keyboard tester in terminal"
     homepage "https://github.com/bloznelis/kbt"
-    url "https://github.com/bloznelis/kbt/archive/1.2.2.tar.gz"
-    sha256 "d08da3d5d51378aef1cf43e0bcf545fbd1abc05ce5d705a79973cfffd3200c6d"
-    version "1.2.2"
+    url "https://github.com/bloznelis/kbt/archive/1.2.3.tar.gz"
+    sha256 "7c74986c28a29a89609176a59e234ef9fd724a20d3dc904853794bd88a60112e"
+    version "1.2.3"
     depends_on "rust"
     license "MIT"
 
