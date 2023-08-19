@@ -1,4 +1,4 @@
-class Typioca < Formula
+class Kbt < Formula
     desc "Keyboard tester in terminal"
     homepage "https://github.com/bloznelis/kbt"
     url "https://github.com/bloznelis/kbt/archive/1.2.3.tar.gz"
