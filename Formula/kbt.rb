@@ -1,9 +1,9 @@
 class Kbt < Formula
   desc "Keyboard tester in terminal"
   homepage "https://github.com/bloznelis/kbt"
-  url "https://github.com/bloznelis/kbt/archive/refs/tags/2.0.0.tar.gz"
-  version "2.0.0"
-  sha256 "3a3c30f0579531db181dedfe2c42e28e567b556085f7f24fe570c74a2cd6a703"
+  url "https://github.com/bloznelis/kbt/archive/refs/tags/2.0.1.tar.gz"
+  version "2.0.1"
+  sha256 "ab38afac38ff8151b07e17405b3af91639b323fb76a3d0729bf4b87963a40267"
   license "MIT"
   depends_on "rust"
 
