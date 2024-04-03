@@ -1,9 +1,9 @@
 class Typioca < Formula
     desc "Minimal, terminal based typing speed tester"
     homepage "https://github.com/bloznelis/typioca"
-    url "https://github.com/bloznelis/typioca/archive/refs/tags/2.11.0.tar.gz"
-    sha256 "61f44059e34c4fdd509566253b5f2bf45025303fdaa00fd390484da2359f2bf0"
-    version "2.11.0"
+    url "https://github.com/bloznelis/typioca/archive/refs/tags/2.11.1.tar.gz"
+    sha256 "eec856b17b67ad93403638d7ccd016b7548cf6509f8f00ced1cb950e1bb82120"
+    version "2.11.1"
     depends_on "go"
     license "MIT"
 
